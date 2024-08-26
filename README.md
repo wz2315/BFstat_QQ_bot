@@ -1,13 +1,18 @@
 # BFstat_QQ_bot
 薯薯人的第一个机器人，请大家见谅！（部署方法在下面）
+##### 有问题直接发issue我可以通过邮箱快速收到通知！
 基本的功能已经完成，由于是第一个版本，所以相关的美化有所欠缺。
-## 主要功能 （注意必须英文等号=）
-1.查询战绩结果如下图所示：（支持bf1和bfv）用法（‘cx=’与‘cx5=’）。
-![22b776426f993433089847391f6b774c](https://github.com/user-attachments/assets/f23c7f34-e673-439d-8df9-47349238f708)
-2.战队信息查询（‘plat=’）：
-![12ecd8f9b779b94860a9268b3b5434d4](https://github.com/user-attachments/assets/f87a73ed-0792-4456-bb8c-29930f46b5b5)
+## 使用文档（帮助界面）：
+##### 1.战绩查询：战地一（'cx='），战地五('cx5=')如下图演示（演示是我随机寻找的，由于这些信息都是公开的，所以应该不会存在纠纷）：
+![0e87ebcdb878412e982396a39f547765_720](https://github.com/user-attachments/assets/2947518d-202e-458d-9ea3-f2225fcf74d4)
+##### 2.战队成员查询('plat=')这个ID 你可以使用包括但不限于ghs机器人查询，主要是用来给vban战队留证据的，还能快速找到战队中的害虫
+![da497a3caae5a6ad94e29576108fddb2](https://github.com/user-attachments/assets/e7afbf90-3801-407f-b14a-5edba202bdf5)
 
 ## TO DO LIST：
+0.将下图中未在上文介绍的分支进行美观度的优化（最高优先级）
+
+![image](https://github.com/user-attachments/assets/9bdaec7e-215f-4e26-98c4-0b4623ad979e)
+
 1.支持2042的战绩查询（不能使用gametools的api，需要使用BTR的api），需要简单配置下
 
 2.添加查询结果背景图（random）背景已经找好了。

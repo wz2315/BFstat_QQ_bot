@@ -1,8 +1,11 @@
 # BFstat_QQ_bot
 薯薯人的第一个机器人，请大家见谅！（部署方法在下面）
 基本的功能已经完成，由于是第一个版本，所以相关的美化有所欠缺。
-查询结果如下图所示：（支持bf1和bfv）。
+## 主要功能 （注意必须英文等号=）
+1.查询战绩结果如下图所示：（支持bf1和bfv）用法（‘cx=’与‘cx5=’）。
 ![22b776426f993433089847391f6b774c](https://github.com/user-attachments/assets/f23c7f34-e673-439d-8df9-47349238f708)
+2.战队信息查询（‘plat=’）：
+![12ecd8f9b779b94860a9268b3b5434d4](https://github.com/user-attachments/assets/f87a73ed-0792-4456-bb8c-29930f46b5b5)
 
 ## TO DO LIST：
 1.支持2042的战绩查询（不能使用gametools的api，需要使用BTR的api），需要简单配置下

@@ -4,7 +4,7 @@
 基本的功能已经完成，由于是第一个版本，所以相关的美化有所欠缺。
 ## 使用文档（帮助界面）：
 ##### 1.战绩查询：战地一（'cx='），战地五('cx5=')如下图演示（演示是我随机寻找的，由于这些信息都是公开的，所以应该不会存在纠纷）：
-![0e87ebcdb878412e982396a39f547765_720](https://github.com/user-attachments/assets/2947518d-202e-458d-9ea3-f2225fcf74d4)
+2024.10.04 优化了战绩查询，增加头像和异常武器，后续将增加bfv robot的机器人服名单情况
 ##### 2.战队成员查询('plat=')这个ID 你可以使用包括但不限于ghs机器人查询，主要是用来给vban战队留证据的，还能快速找到战队中的害虫
 ![da497a3caae5a6ad94e29576108fddb2](https://github.com/user-attachments/assets/e7afbf90-3801-407f-b14a-5edba202bdf5)
 
@@ -13,14 +13,14 @@
 
 ![image](https://github.com/user-attachments/assets/9bdaec7e-215f-4e26-98c4-0b4623ad979e)
 
-1.支持2042的战绩查询（不能使用gametools的api，需要使用BTR的api），需要简单配置下
+1.支持2042的战绩查询（不能使用gametools的api，需要使用BTR的api），需要简单配置下（2024.10.04 经核实btr查询多次会遇验证码，ip池本人无能力使用，该功能已经暂停编写）
 
-2.添加查询结果背景图（random）背景已经找好了。
+2.添加查询结果背景图（random）背景已经找好了。(2024.10.04 功能性优先，美观退后)
 ![image](https://github.com/user-attachments/assets/1032058b-c587-4fd1-a1e1-e50cde238574)
 
-3.支持hacker识别，比如说BFVhacker的api。不过战地一的不知道怎么弄，我自己以前有一套标准的，可刷枪什么的都要排除，本来想着用gametools返回的枪械类型进行简单判断，但是有很大的问题，比如：刘将军被归类为半自动，还有独头弹和猎人的爆头率差异很大，还没有想好怎么办。
+3.支持hacker识别，比如说BFVhacker的api。在战绩面板就能查询到了，done。
 
-4.行动和交换
+4.行动和交换(其他机器人功能强大，就不弄了)
 
 ## NO PLAN TO DO：
 1.管服相关内容，有些东西说不清的麻烦，我怕写出史山，

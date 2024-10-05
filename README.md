@@ -5,6 +5,9 @@
 ## 使用文档（帮助界面）：
 ##### 1.战绩查询：战地一（'cx='），战地五('cx5=')如下图演示（演示是我随机寻找的，由于这些信息都是公开的，所以应该不会存在纠纷）：
 2024.10.04 优化了战绩查询，增加头像和异常武器，后续将增加bfv robot的机器人服名单情况
+![b8d0ff328e90c0befcfca45c36215484](https://github.com/user-attachments/assets/4941cd81-8dd4-46dc-97dd-e71595b196b5)
+
+
 ##### 2.战队成员查询('plat=')这个ID 你可以使用包括但不限于ghs机器人查询，主要是用来给vban战队留证据的，还能快速找到战队中的害虫
 ![da497a3caae5a6ad94e29576108fddb2](https://github.com/user-attachments/assets/e7afbf90-3801-407f-b14a-5edba202bdf5)
 

@@ -7,6 +7,9 @@
 2024.10.04 优化了战绩查询，增加头像和异常武器，后续将增加bfv robot的机器人服名单情况
 ![b8d0ff328e90c0befcfca45c36215484](https://github.com/user-attachments/assets/4941cd81-8dd4-46dc-97dd-e71595b196b5)
 
+2024.10.07 经过测试，gametools的api不太稳定，经常网络错误，而QQ机器人是运行在腾讯上海服务器上的，不能翻。不知道要不要换成ROBOT社区的机器人
+![image](https://github.com/user-attachments/assets/7c3c3e68-ff39-4abb-a635-8812ce3ba745)
+
 
 ##### 2.战队成员查询('plat=')这个ID 你可以使用包括但不限于ghs机器人查询，主要是用来给vban战队留证据的，还能快速找到战队中的害虫
 ![da497a3caae5a6ad94e29576108fddb2](https://github.com/user-attachments/assets/e7afbf90-3801-407f-b14a-5edba202bdf5)
